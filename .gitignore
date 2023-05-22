@@ -10,3 +10,7 @@ debug.log
 geckodriver.log
 .idea/.name
 geckodriver.log
+.DS_Store
+build/
+dist/
+TradeViewGUI.spec
